@@ -1,0 +1,11 @@
+.d1{
+    display: flex;
+    
+}
+.nav-link{
+    color: black !important;
+}
+#i111{
+    transform: translate(10px);
+    animation: 2s linear 0s infinite normal
+}

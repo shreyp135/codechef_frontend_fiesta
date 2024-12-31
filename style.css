@@ -1,0 +1,60 @@
+
+
+.f1{
+    background-color: rgba(173, 196, 173, 0.447);
+}
+#a1{
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.card{
+    border: none;
+    background-color: rgba(173, 196, 173, 0.447);
+
+}
+.nav-link{
+    color: white;
+    margin-left: 5rem;
+    font-weight: 500;
+}
+.navbar-brand{
+    color: white;
+}
+.f2{
+    background-color: black;
+    height: 35rem;
+}
+#im1{
+    height: 32rem;
+   margin-left: 25.6rem;
+   margin-top: 3rem;
+}
+.f3{
+    z-index: 3;
+    background-color: rgb(134, 134, 134,0.5);
+    position: absolute; 
+    height: 20rem;
+    width: 30rem;
+    margin-top: 8rem;
+    text-align: center;
+}
+h4{
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 30px;
+    font-style: normal;
+}
+p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
